@@ -7,5 +7,6 @@
 - 👾 Deployed: `IIoT` Applications at Automotive Companies .
 - 💬 ping me about **Creativity**, **Computer related things**, **Coding**
 - ⛏️ My favourite tools: VScode, Obsidian, MobaXterm, Solidworks, Thingsboard
+---
 My blog-site: [`krnxmid.github.io`](https://krnxmid.github.io)
 My email: `kforkaranveer@gmail.com`
