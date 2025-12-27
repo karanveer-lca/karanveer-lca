@@ -8,6 +8,6 @@
 - 💬 ping me about **Creativity**, **Computer related things**, **Coding**
 - ⛏️ My favourite tools: VScode, Obsidian, MobaXterm, Solidworks, Thingsboard
 ---
-My Monkeytype Profile: [`k4karan`](]https://monkeytype.com/profile/k4karan)
+My Monkeytype Profile: [`k4karan`](https://monkeytype.com/profile/k4karan)
 My blog-site: [`krnxmid.github.io`](https://krnxmid.github.io)
 My email: `kforkaranveer@gmail.com`
